@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/youtube/tang-like", {data:[{}],fetch:{},mutations:[]});

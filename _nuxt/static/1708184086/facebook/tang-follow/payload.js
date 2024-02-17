@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/facebook/tang-follow", {data:[{}],fetch:{},mutations:[]});

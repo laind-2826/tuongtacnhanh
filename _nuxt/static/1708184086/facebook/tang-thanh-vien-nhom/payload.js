@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/facebook/tang-thanh-vien-nhom", {data:[{}],fetch:{},mutations:[]});

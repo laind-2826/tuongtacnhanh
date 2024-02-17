@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/instagram/tang-binh-luan", {data:[{}],fetch:{},mutations:[]});

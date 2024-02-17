@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/shopee/tang-like", {data:[{}],fetch:{},mutations:[]});

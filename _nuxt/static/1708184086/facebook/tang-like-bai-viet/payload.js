@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/facebook/tang-like-bai-viet", {data:[{}],fetch:{},mutations:[]});

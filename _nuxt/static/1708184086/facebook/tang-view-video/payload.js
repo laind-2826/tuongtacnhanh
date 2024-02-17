@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/facebook/tang-view-video", {data:[{}],fetch:{},mutations:[]});

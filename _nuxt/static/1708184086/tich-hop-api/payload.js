@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tich-hop-api", {data:[{}],fetch:{},mutations:[]});

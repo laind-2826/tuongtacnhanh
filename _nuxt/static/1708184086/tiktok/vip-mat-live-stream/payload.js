@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tiktok/vip-mat-live-stream", {data:[{}],fetch:{},mutations:[]});

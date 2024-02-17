@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/chinh-sach", {data:[{}],fetch:{},mutations:[]});

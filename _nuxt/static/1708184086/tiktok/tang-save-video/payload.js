@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tiktok/tang-save-video", {data:[{}],fetch:{},mutations:[]});

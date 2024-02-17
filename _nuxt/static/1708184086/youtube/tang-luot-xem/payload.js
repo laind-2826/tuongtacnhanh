@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/youtube/tang-luot-xem", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tiktok/tang-mat-stream", {data:[{}],fetch:{},mutations:[]});

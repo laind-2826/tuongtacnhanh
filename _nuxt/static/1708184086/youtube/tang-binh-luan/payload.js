@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/youtube/tang-binh-luan", {data:[{}],fetch:{},mutations:[]});

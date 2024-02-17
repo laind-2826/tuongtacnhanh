@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Host: https://tuongtacnhanh.net
+Disallow: /admin/
+Sitemap: https://tuongtacnhanh.net/sitemap.xml/

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tiktok/tang-view", {data:[{}],fetch:{},mutations:[]});
